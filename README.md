@@ -2,7 +2,7 @@
 
 ## 使い方
 ```
-python scrape_sample.py filepath="/home/user/data.csv"
+python scrape_sample.py /home/user/data.csv
 ```
 ![image](https://user-images.githubusercontent.com/116167055/210737604-7bd6c3b5-76ae-4ffc-a3fe-c099cdcb0e68.png)
 ![image](https://user-images.githubusercontent.com/116167055/210738004-d3d08f20-2fb1-46ad-8876-6f3dbb736406.png)
